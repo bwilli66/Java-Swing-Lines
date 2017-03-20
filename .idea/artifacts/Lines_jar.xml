@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lines:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lines_jar</output-path>
+    <root id="archive" name="Lines.jar">
+      <element id="module-output" name="Lines" />
+    </root>
+  </artifact>
+</component>
